@@ -441,3 +441,4 @@ https://fn.tc
 https://lol.tc
 https://tek.link
 https://tr.im/
+split.to/
