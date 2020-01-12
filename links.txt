@@ -1873,3 +1873,4 @@ https://shrinkme.io/
 http://salez.site/
 https://t.me/ETH_Ads_bot?start=
 https://onlinenotepad.us
+https://t.me/BTC_Ads_jp_bot?start=
