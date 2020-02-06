@@ -1912,7 +1912,7 @@ https://tr.link/
 http://ay.link
 http://alturl.com/
 https://goshortlink.pw/
-https://s.id/
+https://s.id/cKWTQ
 http://greponozy.com/
 https://re.tc/
 https://www.4shared.com
@@ -1926,3 +1926,4 @@ http://scapognel.com/
 http://www.fl-y.com/
 http://qrf.in/
 http://arah.in/
+https://hive.host/
